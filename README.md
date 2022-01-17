@@ -1,6 +1,8 @@
 # ZJU-Intelligent mobile technology
 浙江大学控制科学与工程学院《智能移动技术》课程 导航规划作业
 
+- 资料仅供参考，请勿直接使用或者抄袭！
+- 如果有用，请为我点一颗星，谢谢！
 
 <img width="455" alt="image" src="https://user-images.githubusercontent.com/81523528/149721316-9c80f416-c6a0-4773-91db-9270c5cb648e.png">
 
